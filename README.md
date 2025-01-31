@@ -1,7 +1,3 @@
-Aquí tienes el **README completo** para tu proyecto **Todo List API**, siguiendo el reto de [roadmap.sh](https://roadmap.sh/projects/todo-list-api) y basado en los endpoints que proporcionaste. Este archivo está listo para usar en tu repositorio.
-
----
-
 # Todo List API 🚀
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-777BB4?logo=php)](https://php.net/)
